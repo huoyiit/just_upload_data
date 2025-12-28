@@ -1,0 +1,8 @@
+id:ID,title,code,idx:int,:LABEL
+s1,"自然语言处理的概念和术语","1.1",1,Section
+s1a,"自然语言","1.1.1",2,Section
+s1b,"自然语言处理与自然语言理解","1.1.2",3,Section
+s1c,"计算语言学","1.1.3",4,Section
+s2,"自然语言处理的技术性挑战","1.2",5,Section
+s3,"机器翻译","1.3",6,Section
+
